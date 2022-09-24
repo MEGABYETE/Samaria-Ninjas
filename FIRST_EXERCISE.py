@@ -1,0 +1,5 @@
+print("The Zen of Python by Tim Peters")
+print("Beautiful is better than ugly")
+print("Explict better than implict")
+print("Simple is better than complex")
+print("Complex is better than complicated")
